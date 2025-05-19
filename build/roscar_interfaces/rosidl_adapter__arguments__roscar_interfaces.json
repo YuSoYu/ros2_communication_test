@@ -1,0 +1,6 @@
+{
+  "package_name": "roscar_interfaces",
+  "non_idl_tuples": [
+    "/home/usou/dev_ws/ros2_comu_test/ros2_communication_test/src/roscar_interfaces:msg/GuiCommand.msg"
+  ]
+}

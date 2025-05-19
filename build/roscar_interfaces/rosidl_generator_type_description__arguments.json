@@ -1,0 +1,11 @@
+{
+  "package_name": "roscar_interfaces",
+  "output_dir": "/home/usou/dev_ws/ros2_comu_test/ros2_communication_test/build/roscar_interfaces/rosidl_generator_type_description/roscar_interfaces",
+  "idl_tuples": [
+    "/home/usou/dev_ws/ros2_comu_test/ros2_communication_test/build/roscar_interfaces/rosidl_adapter/roscar_interfaces:msg/GuiCommand.idl"
+  ],
+  "include_paths": [
+    "std_msgs:/opt/ros/jazzy/share/std_msgs",
+    "builtin_interfaces:/opt/ros/jazzy/share/builtin_interfaces"
+  ]
+}

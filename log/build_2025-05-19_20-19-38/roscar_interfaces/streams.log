@@ -1,0 +1,19 @@
+[0.010s] Invoking command in '/home/usou/dev_ws/ros2_comu_test/ros2_communication_test/build/roscar_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=(ros2) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ VIRTUAL_ENV_PROMPT=(ros2) /usr/bin/cmake /home/usou/dev_ws/ros2_comu_test/ros2_communication_test/src/roscar_interfaces -DCMAKE_INSTALL_PREFIX=/home/usou/dev_ws/ros2_comu_test/ros2_communication_test/install/roscar_interfaces
+[0.021s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.161s] -- Found std_msgs: 5.3.6 (/opt/ros/jazzy/share/std_msgs/cmake)
+[0.183s] -- Found rosidl_generator_c: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.191s] -- Found rosidl_generator_cpp: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.201s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.212s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.237s] -- Found rosidl_default_generators: 1.6.0 (/opt/ros/jazzy/share/rosidl_default_generators/cmake)
+[0.244s] -- Found rosidl_adapter: 4.6.5 (/opt/ros/jazzy/share/rosidl_adapter/cmake)
+[0.460s] [31mCMake Error at /opt/ros/jazzy/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:223 (message):
+[0.460s]   Packages installing interfaces must include
+[0.460s]   '<member_of_group>rosidl_interface_packages</member_of_group>' in their
+[0.460s]   package.xml
+[0.460s] Call Stack (most recent call first):
+[0.460s]   CMakeLists.txt:8 (rosidl_generate_interfaces)
+[0.460s] 
+[0.460s] [0m
+[0.461s] -- Configuring incomplete, errors occurred!
+[0.467s] Invoked command in '/home/usou/dev_ws/ros2_comu_test/ros2_communication_test/build/roscar_interfaces' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PS1=(ros2) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ VIRTUAL_ENV_PROMPT=(ros2) /usr/bin/cmake /home/usou/dev_ws/ros2_comu_test/ros2_communication_test/src/roscar_interfaces -DCMAKE_INSTALL_PREFIX=/home/usou/dev_ws/ros2_comu_test/ros2_communication_test/install/roscar_interfaces

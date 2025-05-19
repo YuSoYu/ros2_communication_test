@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+../../build/roscar_comm_py/roscar_comm_py.egg-info/PKG-INFO
+../../build/roscar_comm_py/roscar_comm_py.egg-info/SOURCES.txt
+../../build/roscar_comm_py/roscar_comm_py.egg-info/dependency_links.txt
+../../build/roscar_comm_py/roscar_comm_py.egg-info/requires.txt
+../../build/roscar_comm_py/roscar_comm_py.egg-info/top_level.txt
+../../build/roscar_comm_py/roscar_comm_py.egg-info/zip-safe
+resource/roscar_comm_py
+roscar_comm_py/__init__.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

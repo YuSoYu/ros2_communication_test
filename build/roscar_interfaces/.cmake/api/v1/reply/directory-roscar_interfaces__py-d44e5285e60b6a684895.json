@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "roscar_interfaces__py",
+		"source" : "/home/usou/dev_ws/ros2_comu_test/ros2_communication_test/build/roscar_interfaces/roscar_interfaces__py"
+	}
+}

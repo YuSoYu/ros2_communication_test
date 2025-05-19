@@ -1,0 +1,26 @@
+running egg_info
+creating ../../build/roscar_comm_py/roscar_comm_py.egg-info
+writing ../../build/roscar_comm_py/roscar_comm_py.egg-info/PKG-INFO
+writing dependency_links to ../../build/roscar_comm_py/roscar_comm_py.egg-info/dependency_links.txt
+writing requirements to ../../build/roscar_comm_py/roscar_comm_py.egg-info/requires.txt
+writing top-level names to ../../build/roscar_comm_py/roscar_comm_py.egg-info/top_level.txt
+writing manifest file '../../build/roscar_comm_py/roscar_comm_py.egg-info/SOURCES.txt'
+reading manifest file '../../build/roscar_comm_py/roscar_comm_py.egg-info/SOURCES.txt'
+writing manifest file '../../build/roscar_comm_py/roscar_comm_py.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/usou/dev_ws/ros2_comu_test/ros2_communication_test/build/roscar_comm_py/build/lib/roscar_comm_py
+copying roscar_comm_py/__init__.py -> /home/usou/dev_ws/ros2_comu_test/ros2_communication_test/build/roscar_comm_py/build/lib/roscar_comm_py
+running install
+running install_lib
+creating /home/usou/dev_ws/ros2_comu_test/ros2_communication_test/install/roscar_comm_py/lib/python3.12/site-packages/roscar_comm_py
+copying /home/usou/dev_ws/ros2_comu_test/ros2_communication_test/build/roscar_comm_py/build/lib/roscar_comm_py/__init__.py -> /home/usou/dev_ws/ros2_comu_test/ros2_communication_test/install/roscar_comm_py/lib/python3.12/site-packages/roscar_comm_py
+byte-compiling /home/usou/dev_ws/ros2_comu_test/ros2_communication_test/install/roscar_comm_py/lib/python3.12/site-packages/roscar_comm_py/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/usou/dev_ws/ros2_comu_test/ros2_communication_test/install/roscar_comm_py/share/ament_index/resource_index/packages
+copying resource/roscar_comm_py -> /home/usou/dev_ws/ros2_comu_test/ros2_communication_test/install/roscar_comm_py/share/ament_index/resource_index/packages
+copying package.xml -> /home/usou/dev_ws/ros2_comu_test/ros2_communication_test/install/roscar_comm_py/share/roscar_comm_py
+running install_egg_info
+Copying ../../build/roscar_comm_py/roscar_comm_py.egg-info to /home/usou/dev_ws/ros2_comu_test/ros2_communication_test/install/roscar_comm_py/lib/python3.12/site-packages/roscar_comm_py-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/usou/dev_ws/ros2_comu_test/ros2_communication_test/build/roscar_comm_py/install.log'
